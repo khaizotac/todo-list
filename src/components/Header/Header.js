@@ -16,7 +16,7 @@ const Header = ({ className }) => (
         <span className="header__span navbar-brand">
           <FontAwesomeIcon className="d-inline-block" icon={faListAlt} size="lg" alt="List emoji" />
         </span>
-        <span className="header__span">Todo App</span>
+        <span className="header__span">Todo List</span>
       </nav>
     </div>
   </div>
